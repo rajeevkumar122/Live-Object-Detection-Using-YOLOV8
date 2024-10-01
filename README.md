@@ -1,1 +1,1 @@
-# Live-Object-Detection-Using-YOLOV8
+# Live Object Detection with OpenCV, Supervision & Yolov8
